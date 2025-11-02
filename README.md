@@ -154,7 +154,8 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 <img width="542" height="130" alt="Screenshot from 2025-11-02 18-22-00" src="https://github.com/user-attachments/assets/b69715b2-d1b2-44f5-85b8-477be1eaf5b9" />
-<img width="576" height="237" alt="Screenshot from 2025-11-02 18-19-41" src="https://github.com/user-attachments/assets/52cac95c-63d0-4d42-9dfd-d67ebe75afe2" />
+<img width="998" height="988" alt="Screenshot from 2025-11-02 18-26-25" src="https://github.com/user-attachments/assets/756371ed-1fae-476e-8cd7-9335cc1872fa" />
+
 
 
 
